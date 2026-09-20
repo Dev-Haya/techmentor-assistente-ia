@@ -1,0 +1,8 @@
+{
+  "carreiras": {
+    "Front-end": "Foco na interface do usuário. Tecnologias base: HTML, CSS, JavaScript, React, Angular.",
+    "Back-end": "Foco na lógica de negócios e banco de dados. Tecnologias base: Python, Java, C#, SQL, APIs REST.",
+    "Dados": "Foco em extração de insights e IA. Tecnologias base: Python, Pandas, SQL, Machine Learning."
+  },
+  "dicas_entrevista": "Revise lógica de programação, estude a cultura da empresa e prepare perguntas para o entrevistador."
+}
