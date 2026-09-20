@@ -1,6 +1,16 @@
 # TechMentor 🚀 - Assistente de Carreira em TI
+Este é um projeto de Assistente Virtual com Inteligência Artificial desenvolvido para o bootcamp da DIO. O TechMentor orienta desenvolvedores iniciantes a escolherem trilhas de estudo utilizando IA Generativa (Google Gemini) e Streamlit.
 
-## 1. Documentação do Agente
-- **Caso de Uso:** Orientar desenvolvedores iniciantes e pessoas em transição de carreira a escolherem trilhas de estudo (Front-end, Back-end, Dados) e se prepararem para o mercado de trabalho.
-- **Persona:** Um mentor sênior amigável, encorajador e objetivo.
-- **Segurança:** O agente é instruído a não responder a perguntas que fujam do escopo de tecnologia e carreira.
+Estrutura do Repositório:
+
+/data: Base de conhecimento do assistente (trilhas e dicas).
+
+/src: Código-fonte da aplicação Streamlit.
+
+/docs: Documentação completa (Caso de Uso, Prompts, Métricas e Pitch).
+
+Como executar:
+
+Instale as dependências: pip install streamlit google-generativeai
+
+Execute a aplicação: streamlit run src/app.py
